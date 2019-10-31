@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget id="tw.edu.nfu.eZTravel" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
 <!-- versionCode is optional and Android only -->
-  <name>eZTravel</name>
+  <name>Come To Your Leisure</name>
   <description>
       An example for phonegap build APP from yflan@nfu.edu.tw.
   </description>
-  <author href="https://www.nfu.edu.tw/zh/" email="yflan@nfu.edu.tw">
-      Yu-Feng Lan
+  <author href="https://www.nfu.edu.tw/zh/" email="10761127@gm.nfu.edu.tw">
+      Nuttawan Phanwong
   </author>
   <content src="index.html" />
   <platform name="android">
